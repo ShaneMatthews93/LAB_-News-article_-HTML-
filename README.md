@@ -41,6 +41,26 @@ The webpage includes the following elements, as specified in the lab instruction
 - **Ordered list** with information about baby rattlesnakes
 - **Links to social media platforms** in a paragraph
 
+## Version Control with Git
+
+This project also provides an opportunity to practice version control with Git. Git is a powerful tool used for tracking changes in files, collaborating with others, and managing project history.
+
+### Basic Git Commands
+
+- `git status`: Check the status of your working directory and staging area.
+- `git add <file>`: Add changes in a file to the staging area.
+- `git commit -m "<message>"`: Commit changes in the staging area to the repository with a descriptive message.
+- `git push origin <branch>`: Push commits from your local repository to a remote repository (e.g., GitHub).
+- `git pull origin <branch>`: Fetch changes from a remote repository and merge them into your local branch.
+- `git branch`: List all branches in the repository.
+- `git checkout <branch>`: Switch to a different branch.
+
+### Branching Workflow
+
+- **Main Branch**: The main branch typically represents the stable version of the project.
+- **Feature Branches**: Create feature branches to work on new features or fixes without affecting the main branch.
+- **Merge Requests/Pull Requests**: After completing your work in a feature branch, create a merge request (or pull request) to merge your changes into the main branch.
+
 ## Credits
 
 I do not own the rights to any of the text/img sources.
